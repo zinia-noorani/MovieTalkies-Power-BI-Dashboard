@@ -53,23 +53,6 @@ The goal of this project is to demonstrate strong BI skills including data model
 
 ---
 
-## 📸 Dashboard Preview  
-*(Add screenshots into an `images` folder and embed them like below)*
-
-![Dashboard Screenshot](images/dashboard1.png)  
-![Genre Breakdown](images/dashboard2.png)
-
----
-
-## 🔗 Access the Dashboard  
-**Published Power BI Link:**  
-_Add your public Power BI link here once published._
-
-**Download PBIX File:**  
-Available in this repository for direct download.
-
----
-
 ## 💡 Business Value  
 This dashboard enables:  
 - Data-driven decision making for movie investments  
